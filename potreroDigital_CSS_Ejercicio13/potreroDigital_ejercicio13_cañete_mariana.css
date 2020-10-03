@@ -1,0 +1,20 @@
+h2{
+	font-family: Helvetica;
+}
+
+p{
+	font-size: 16px;
+}
+
+.titulo_Style1{
+	color:#ff0400;
+	background-color:#0008ff;
+}
+
+.titulo_Style2 {
+	color: #10a108;
+}
+
+.sub_Style {
+	font-style: italic;
+

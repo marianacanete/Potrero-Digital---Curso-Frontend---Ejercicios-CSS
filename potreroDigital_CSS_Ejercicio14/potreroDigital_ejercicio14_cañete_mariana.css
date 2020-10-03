@@ -1,0 +1,33 @@
+.container {
+	border: solid #000000;
+	background-color: #ff0000;
+	width: 300px;
+	height: 20vh;
+	margin: 4px 3%;
+	padding: 0;
+}
+
+@media screen and (max-width: 1200px ){
+
+	.container {
+		border: dotted #000000;
+		background-color: #00cc03;
+		width: 20%;
+		height: 100px;
+		margin: 10px 6%;
+		padding: 9px;
+	}
+}
+
+@media screen and (max-width: 480px ){
+
+	.container {
+		border: solid #7d0505;
+		background-color: #00cc03;
+		width: 20%;
+		height: 100px;
+		margin: 0;
+		padding-right: 9px;
+	}
+}
+
